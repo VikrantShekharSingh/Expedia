@@ -13,7 +13,6 @@ header {
   height: 65px;
 
 }
-.left_list
 
 .navbar {
   display: flex;
@@ -24,11 +23,6 @@ header {
   border-bottom: 1px solid lightgrey;
   
 }
-
-/* .left_container,
-.right_container {
-
-} */
 
 .left_list, .right_list {
   list-style-type: none;
