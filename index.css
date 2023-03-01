@@ -13,6 +13,7 @@ header {
   height: 65px;
 
 }
+.left_list
 
 .navbar {
   display: flex;
@@ -32,21 +33,15 @@ header {
 .left_list, .right_list {
   list-style-type: none;
   display: flex;
+  align-items: center;
   gap: 2rem;
   font-size: 14px;
   font-weight: 550;
   color: rgb(54, 54, 54);
-  
 }
 
-#left_list_pad1 {
-  padding-top: 4px;
-}
-
-#left_list_pad2 {
-  padding-top: 6px;
-}
 #english {
   display: flex;
+  align-items: center;
   gap: 0.4rem;
 }
